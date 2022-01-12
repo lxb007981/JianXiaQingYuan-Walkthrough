@@ -1,9 +1,10 @@
+const base = '/JianXiaQingYuan-Walkthrough/';
 module.exports = {
   // 站点配置
   lang: 'zh-CN',
   title: '剑侠情缘2攻略整合',
   description: '一个方便玩家查阅的攻略站',
-  base: '/JianXiaQingYuan-Walkthrough/',
+  base: base,
   head: [
     [
       'link',
@@ -11,7 +12,7 @@ module.exports = {
         rel: 'icon',
         type: 'image/png',
         sizes: '16x16',
-        href: `/images/icons/favicon-16x16.png`,
+        href: `${base}images/icons/favicon-16x16.png`,
       },
     ],
     [
@@ -20,10 +21,10 @@ module.exports = {
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: `/images/icons/favicon-32x32.png`,
+        href: `${base}images/icons/favicon-32x32.png`,
       },
     ],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'manifest', href: `${base}manifest.json` }],
     ['meta', { name: 'application-name', content: '剑侠情缘2攻略整合' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'VuePress' }],
     [
@@ -32,13 +33,13 @@ module.exports = {
     ],
     [
       'link',
-      { rel: 'apple-touch-icon', href: `/images/icons/apple-touch-icon.png` },
+      { rel: 'apple-touch-icon', href: `${base}images/icons/apple-touch-icon.png` },
     ],
     [
       'link',
       {
         rel: 'mask-icon',
-        href: '/images/icons/safari-pinned-tab.svg',
+        href: `${base}images/icons/safari-pinned-tab.svg`,
         color: '#3eaf7c',
       },
     ],
