@@ -3,7 +3,7 @@ module.exports = {
   lang: 'zh-CN',
   title: '剑侠情缘2攻略整合',
   description: '一个方便玩家查阅的攻略站',
-  base: '/',
+  base: '/JianXiaQingYuan-Walkthrough/',
   head: [
     [
       'link',
