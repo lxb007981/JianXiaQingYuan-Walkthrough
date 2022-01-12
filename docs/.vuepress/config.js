@@ -54,8 +54,14 @@ module.exports = {
     navbar: [
       {
         text: '攻略',
-        link: '/Walkthrough/',
-      }, {
+        children: [
+          { text: '1-启程-长安城', link: '/Walkthrough/1-启程-长安城', },
+          { text: '2-别离村-金兵大营', link: '/Walkthrough/2-别离村-金兵大营', },
+          { text: '3-中都-武林大会', link: '/Walkthrough/3-中都-武林大会', },
+          { text: '4-被囚-结局', link: '/Walkthrough/4-被囚-结局', }
+        ]
+      },
+      {
         text: '指南',
         link: '/Guide/',
       },
