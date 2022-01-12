@@ -1,0 +1,17 @@
+{
+  "name": "jianxiaqingyuan-walkthrough",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "insert-line": "^1.1.0",
+    "istextorbinary": "^6.0.0",
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
