@@ -23,7 +23,7 @@ module.exports = {
         href: `/images/icons/favicon-32x32.png`,
       },
     ],
-    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'application-name', content: '剑侠情缘2攻略整合' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'VuePress' }],
     [
