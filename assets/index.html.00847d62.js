@@ -1,4 +1,4 @@
-import{c as n}from"./app.4614df7d.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},i=n(`<h2 id="\u5934\u76D4" tabindex="-1"><a class="header-anchor" href="#\u5934\u76D4" aria-hidden="true">#</a> \u5934\u76D4</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>goods-toukui-1-\u4EFB\u610F\u5DFE.ini
+import{e as n}from"./app.16b50b43.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},i=n(`<h2 id="\u5934\u76D4" tabindex="-1"><a class="header-anchor" href="#\u5934\u76D4" aria-hidden="true">#</a> \u5934\u76D4</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>goods-toukui-1-\u4EFB\u610F\u5DFE.ini
 goods-toukui-2-\u900D\u9065\u5DFE.ini
 goods-toukui-3-\u9752\u4E1D\u5DFE.ini
 goods-toukui-4-\u4E66\u751F\u5E3D.ini

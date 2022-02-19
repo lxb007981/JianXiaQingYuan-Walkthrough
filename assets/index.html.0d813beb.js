@@ -1,4 +1,4 @@
-import{c as n}from"./app.4614df7d.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},i=n(`<h2 id="\u4E3B\u89D2\u6B66\u529F" tabindex="-1"><a class="header-anchor" href="#\u4E3B\u89D2\u6B66\u529F" aria-hidden="true">#</a> \u4E3B\u89D2\u6B66\u529F</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>player-magic-\u5929\u610F\u5251\u8BC0.ini
+import{e as n}from"./app.16b50b43.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},i=n(`<h2 id="\u4E3B\u89D2\u6B66\u529F" tabindex="-1"><a class="header-anchor" href="#\u4E3B\u89D2\u6B66\u529F" aria-hidden="true">#</a> \u4E3B\u89D2\u6B66\u529F</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>player-magic-\u5929\u610F\u5251\u8BC0.ini
 player-magic-\u767D\u8679\u8D2F\u65E5.ini
 player-magic-\u65E0\u5F71\u795E\u9488.ini
 player-magic-\u6740\u610F.ini
