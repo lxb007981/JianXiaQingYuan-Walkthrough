@@ -74,6 +74,10 @@ module.exports = {
         text: '补丁',
         link: '/Patch/',
       },
+      {
+        text: '版权声明',
+        link: '/Copyright/',
+      },
     ],
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdatedText: '上次更新',
