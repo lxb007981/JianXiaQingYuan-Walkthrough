@@ -1,0 +1,47 @@
+import{c as n}from"./app.4614df7d.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},i=n(`<h2 id="\u4E3B\u89D2\u6B66\u529F" tabindex="-1"><a class="header-anchor" href="#\u4E3B\u89D2\u6B66\u529F" aria-hidden="true">#</a> \u4E3B\u89D2\u6B66\u529F</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>player-magic-\u5929\u610F\u5251\u8BC0.ini
+player-magic-\u767D\u8679\u8D2F\u65E5.ini
+player-magic-\u65E0\u5F71\u795E\u9488.ini
+player-magic-\u6740\u610F.ini
+player-magic-\u5BD2\u971C\u638C.ini
+player-magic-\u4F5B\u95E8\u72EE\u5B50\u543C.ini
+player-magic-\u6012\u96F7\u6307.ini
+player-magic-\u98CE\u96EA\u72C2\u5200.ini
+player-magic-\u5B9A\u8EAB\u6CD5.ini
+player-magic-\u6F2B\u5929\u82B1\u96E8\u624B\u6CD5.ini
+player-magic-\u82B1\u98DE\u8776\u821E\u5251.ini
+player-magic-\u4F9D\u98CE\u5251\u6CD5.ini
+player-magic-\u5927\u529B\u91D1\u521A\u638C.ini
+player-magic-\u5927\u68A6\u5FC3\u6CD5.ini
+player-magic-\u5F2F\u5200\u51B7\u5149.ini
+player-magic-\u91D1\u521A\u4E0D\u574F\u795E\u529F.ini
+player-magic-\u5929\u5E08\u7B26\u6CD5.ini
+player-magic-\u68A6\u8776\u795E\u529F.ini
+player-magic-\u66B4\u96E8\u68A8\u82B1\u7BAD.ini
+player-magic-\u9739\u96F3\u70C8\u7130\u624B\u6CD5.ini
+player-magic-\u6C5F\u7FFB\u6D77\u6CB8.ini
+player-magic-\u6D17\u9AD3\u7ECF.ini
+player-magic-\u5929\u5730\u65E0\u53CA.ini
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br></div></div><h2 id="npc\u6B66\u529F" tabindex="-1"><a class="header-anchor" href="#npc\u6B66\u529F" aria-hidden="true">#</a> NPC\u6B66\u529F</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>magic-\u5B54\u96C0\u7FCE.ini
+magic-\u5C01\u795E\u5341\u4E8C\u5251.ini
+magic-\u5341\u4E00\u5F0F\u66B4\u96E8\u5251\u6CD5.ini
+magic-\u9739\u96F3\u5200\u6CD5.ini
+magic-\u900D\u9065\u5200\u6CD5.ini
+magic-\u9006\u6D41\u5200\u6CD5.ini
+magic-\u5929\u5FCD\u795E\u529F.ini
+magic-\u522B\u79BB\u5FC3\u6CD5.ini
+magic-\u98CE\u6B8B\u5251\u6CD5.ini
+magic-\u8475\u82B1\u5B9D\u5178.ini
+magic-\u4E71\u62AB\u98CE\u7BAD\u672F.ini
+magic-\u6D41\u6C34\u638C\u6CD5.ini
+magic-\u767E\u53D8\u638C\u6CD5.ini
+magic-\u65AD\u91D1\u65A7.ini
+magic-\u62C8\u82B1\u6307.ini
+magic-\u51B0\u5F13\u7BAD.ini
+magic-\u706B\u7BAD.ini
+magic-\u5F13\u7BAD.ini
+magic-\u957F\u5251.ini
+magic-\u5200.ini
+magic-\u62F3\u811A.ini
+magic-\u4E24\u683C\u957F\u67AA.ini
+magic-\u68CD\u68D2.ini
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br></div></div>`,4);function e(r,l){return i}var m=a(s,[["render",e]]);export{m as default};
