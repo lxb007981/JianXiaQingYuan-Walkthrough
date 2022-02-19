@@ -66,6 +66,14 @@ module.exports = {
         text: '指南',
         link: '/Guide/',
       },
+      {
+        text: '参考',
+        link: '/Reference/',
+      },
+      {
+        text: '补丁',
+        link: '/Patch/',
+      },
     ],
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdatedText: '上次更新',
