@@ -1,0 +1,26 @@
+.el-collapse {
+  border: 1px solid var(--c-border, #dcdfe6);
+  border-radius: 4px;
+  margin: 1rem 0;
+  background-color: var(--c-bg-light, #f3f4f5);
+
+  .el-collapse-item__header {
+    padding: 0 16px;
+    background-color: var(--c-bg-light, #f3f4f5);
+    border-bottom: 1px solid var(--c-border, #e4e7ed);
+    color: var(--c-text, #2c3e50);
+  }
+
+  .el-collapse-item__arrow {
+    color: var(--c-text, #2c3e50);
+  }
+
+  .el-collapse-item__wrap {
+    border-bottom: none;
+    background-color: var(--c-bg-light, #f3f4f5);
+  }
+
+  .el-collapse-item__content {
+    padding: 16px;
+  }
+}
