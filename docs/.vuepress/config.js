@@ -50,8 +50,9 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: '/images/logo.png',
-    repo: 'lxb007981/JianXiaQingYuan-Walkthrough',
+    repo: 'https://github.com/lxb007981/JianXiaQingYuan-Walkthrough',
     docsDir: 'docs',
+    docsBranch: 'master',
     navbar: [
       {
         text: '攻略',
