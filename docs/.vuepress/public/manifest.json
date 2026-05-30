@@ -3,9 +3,9 @@
     "short_name": "剑侠情缘2攻略整合",
     "icons": [
         {
-            "src": "/images/icons/android-chrome-48x48.png",
+            "src": "/images/icons/android-chrome-48x48.webp",
             "sizes": "48x48",
-            "type": "image/png"
+            "type": "image/webp"
         }
     ],
     "theme_color": "#3eaf7c",

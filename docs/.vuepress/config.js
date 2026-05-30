@@ -10,18 +10,18 @@ module.exports = {
       'link',
       {
         rel: 'icon',
-        type: 'image/png',
+        type: 'image/webp',
         sizes: '16x16',
-        href: `${base}images/icons/favicon-16x16.png`,
+        href: `${base}images/icons/favicon-16x16.webp`,
       },
     ],
     [
       'link',
       {
         rel: 'icon',
-        type: 'image/png',
+        type: 'image/webp',
         sizes: '32x32',
-        href: `${base}images/icons/favicon-32x32.png`,
+        href: `${base}images/icons/favicon-32x32.webp`,
       },
     ],
     ['link', { rel: 'manifest', href: `${base}manifest.json` }],
@@ -33,7 +33,7 @@ module.exports = {
     ],
     [
       'link',
-      { rel: 'apple-touch-icon', href: `${base}images/icons/apple-touch-icon.png` },
+      { rel: 'apple-touch-icon', href: `${base}images/icons/apple-touch-icon.webp` },
     ],
     [
       'link',
@@ -49,7 +49,7 @@ module.exports = {
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
-    logo: '/images/logo.png',
+    logo: '/images/logo.webp',
     repo: 'https://github.com/lxb007981/JianXiaQingYuan-Walkthrough',
     docsDir: 'docs',
     docsBranch: 'master',

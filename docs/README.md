@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: /images/hero.png
+heroImage: /images/hero.webp
 actions:
   - text: 查看攻略
     link: /Walkthrough/1-启程-长安城
