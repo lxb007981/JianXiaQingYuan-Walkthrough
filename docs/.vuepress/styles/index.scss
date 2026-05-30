@@ -1,4 +1,6 @@
 .el-collapse {
+  position: relative;
+  z-index: 1;
   border: 1px solid var(--c-border, #dcdfe6);
   border-radius: 4px;
   margin: 1rem 0;
