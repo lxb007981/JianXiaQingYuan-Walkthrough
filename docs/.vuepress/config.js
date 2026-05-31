@@ -47,7 +47,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   // 主题和它的配置
-  theme: '@vuepress/theme-default',
+  theme: require.resolve('./theme'),
   themeConfig: {
     logo: '/images/logo.webp',
     repo: 'https://github.com/lxb007981/JianXiaQingYuan-Walkthrough',
