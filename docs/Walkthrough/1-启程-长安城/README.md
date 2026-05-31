@@ -169,7 +169,7 @@ CTRL+鼠标左键强制攻击
       title="展开/收起"
     >
     <p>
-      <img src="./长安城.webp">
+      <img src="../../Guide/剑侠情缘2白金版地图/长安地图.webp">
     </p>
     </el-collapse-item>
   </el-collapse>

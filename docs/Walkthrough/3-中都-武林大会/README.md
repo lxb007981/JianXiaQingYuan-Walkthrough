@@ -16,7 +16,7 @@ next:
       title="展开/收起"
     >
       <p>
-        <img src="./中都城.webp">
+        <img src="../../Guide/剑侠情缘2白金版地图/中都地图.webp">
       </p>
     </el-collapse-item>
   </el-collapse>
@@ -163,7 +163,7 @@ next:
       title="展开/收起"
     >
       <p>
-        <img src="./临安城.webp">
+        <img src="../../Guide/剑侠情缘2白金版地图/临安地图.webp">
       </p>
     </el-collapse-item>
   </el-collapse>

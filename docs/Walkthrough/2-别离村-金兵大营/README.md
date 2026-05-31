@@ -105,7 +105,7 @@ next:
       title="展开/收起"
     >
     <p>
-      <img src="./汉阳城.webp">
+      <img src="../../Guide/剑侠情缘2白金版地图/汉阳地图.webp">
     </p>
     </el-collapse-item>
   </el-collapse>
